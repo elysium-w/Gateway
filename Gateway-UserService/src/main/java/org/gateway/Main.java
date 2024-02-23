@@ -1,4 +1,4 @@
-package org.saas;
+package org.gateway;
 
 public class Main {
     public static void main(String[] args) {
